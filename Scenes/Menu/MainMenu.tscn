@@ -1,0 +1,43 @@
+[gd_scene format=3 uid="uid://c8ih2gftq0hcp"]
+
+[ext_resource type="Texture2D" uid="uid://c30hrsjkuu0qe" path="res://Assets/Testing/TestMenu.png" id="1_a2ivp"]
+[ext_resource type="Texture2D" uid="uid://cg3ns481o8cui" path="res://Assets/Testing/TestTitle.png" id="2_mj0i0"]
+
+[node name="MainMenu" type="Node2D" unique_id=1331769703]
+
+[node name="Background" type="Sprite2D" parent="." unique_id=1050018442]
+position = Vector2(575.99994, 324)
+scale = Vector2(2.56, 2.7)
+texture = ExtResource("1_a2ivp")
+
+[node name="TitleLogo" type="Sprite2D" parent="." unique_id=1934068789]
+position = Vector2(221, 186)
+scale = Vector2(4, 4)
+texture = ExtResource("2_mj0i0")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=1279730705]
+offset_left = 137.0
+offset_top = 327.0
+offset_right = 233.0
+offset_bottom = 498.0
+scale = Vector2(1.5, 1.5)
+
+[node name="NewGameButton" type="Button" parent="VBoxContainer" unique_id=2103653461]
+layout_mode = 2
+text = "New Game"
+
+[node name="LoadButton" type="Button" parent="VBoxContainer" unique_id=255061834]
+layout_mode = 2
+text = "Load Game"
+
+[node name="SettingsButton" type="Button" parent="VBoxContainer" unique_id=341015149]
+layout_mode = 2
+text = "Options"
+
+[node name="CreditsButton" type="Button" parent="VBoxContainer" unique_id=518501620]
+layout_mode = 2
+text = "Credits"
+
+[node name="ExitButton" type="Button" parent="VBoxContainer" unique_id=2025099165]
+layout_mode = 2
+text = "Exit"
