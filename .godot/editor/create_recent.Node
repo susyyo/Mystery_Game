@@ -1,0 +1,8 @@
+Area2D
+Label
+Panel
+CanvasLayer
+CollisionShape2D
+TileMap
+TileMapLayer
+StaticBody2D

@@ -1,0 +1,61 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1774040088
+icon.svg::CompressedTexture2D::3180444759716574685::1773982807::1773982843::1::::<><><>0<>0<>743d694973e6b191b49f924ac6b2386d<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1773982807::0::1::::<><><>0<>0<><>::
+::res://Assets/::1774156185
+::res://Assets/Character Sprites/::1773982807
+::res://Assets/Character Sprites/MC/::1773982843
+MC_Idle.png::CompressedTexture2D::1529876389213746714::1773982807::1773982843::1::::<><><>0<>0<>76642f0d949b79d5713527709ff09a6a<>res://.godot/imported/MC_Idle.png-ce32449c4dde352400473837456f99b1.ctex::
+MC_WalkDown.png::CompressedTexture2D::12827930464811170::1773982807::1773982843::1::::<><><>0<>0<>ce3d1fdc8ce5ecad4741f7ec4e85e2b1<>res://.godot/imported/MC_WalkDown.png-2bcbeab7c3d02a6c98154622f2160cb9.ctex::
+MC_WalkSide.png::CompressedTexture2D::6974263664419962203::1773982807::1773982843::1::::<><><>0<>0<>71cca46bc7c5cee7be87d82aa1a4b4b5<>res://.godot/imported/MC_WalkSide.png-515a50ec2107e4928204827353e3364e.ctex::
+MC_WalkUp.png::CompressedTexture2D::8627392136356626651::1773982807::1773982843::1::::<><><>0<>0<>c0e240c7d3760a2c5909f9fe364ef3fd<>res://.godot/imported/MC_WalkUp.png-6515177336489636c89b2d244aca824a.ctex::
+::res://Assets/Testing/::1774156438
+16x32 All Animations.png::CompressedTexture2D::8408505633852751960::1773982807::1773982843::1::::<><><>0<>0<>0262f320758b8ef5737efbbe27959995<>res://.godot/imported/16x32 All Animations.png-eaea2da6d60196e2d32b79ebb7e49c54.ctex::
+16x32 Idle-Sheet.png::CompressedTexture2D::837521069362015020::1773982807::1773982843::1::::<><><>0<>0<>3c4c7bcec09a43066230ec9d075b2896<>res://.godot/imported/16x32 Idle-Sheet.png-b307cbe1725100a7eba383a05ebb22c1.ctex::
+16x32 Interact-Sheet.png::CompressedTexture2D::8542047009423016672::1773982807::1773982843::1::::<><><>0<>0<>3719b115bff0979ae3ec2c486b209800<>res://.godot/imported/16x32 Interact-Sheet.png-04a3304d0744e0575cc953dfe67668b3.ctex::
+16x32 Jump-Sheet.png::CompressedTexture2D::2043042021499081692::1773982807::1773982843::1::::<><><>0<>0<>87621d8375627a29640b055f8528a7f2<>res://.godot/imported/16x32 Jump-Sheet.png-e672941abda2193d4e351fb4c08df8dc.ctex::
+16x32 Rotate-Sheet.png::CompressedTexture2D::8746077337674187169::1773982807::1773982843::1::::<><><>0<>0<>64c027ae9200fb9e84e4ccfbeea51b23<>res://.godot/imported/16x32 Rotate-Sheet.png-dc0b13baa7016b1b0bb80c829839990a.ctex::
+16x32 Run-Sheet.png::CompressedTexture2D::8000789615012490693::1773982807::1773982843::1::::<><><>0<>0<>518280aac8ade47c8d471cb5ef077c4b<>res://.godot/imported/16x32 Run-Sheet.png-cbb06f8a498b11d1b6dfd9802375d762.ctex::
+16x32 Walk-Sheet.png::CompressedTexture2D::1722742794122586080::1773982807::1773982843::1::::<><><>0<>0<>b8d876f23f4ed909edc928397f19ed59<>res://.godot/imported/16x32 Walk-Sheet.png-13584172564ad9a11c7d7f4063c52539.ctex::
+DialogueBox_Test.png::CompressedTexture2D::9141770983860318525::1774156434::1774156443::1::::<><><>0<>0<>b8e979aaabd9edf5e9cfee05596ebf95<>res://.godot/imported/DialogueBox_Test.png-2a1ba3e9ca2bdf06605e7fd8904c6e5d.ctex::
+TestMenu.png::CompressedTexture2D::6790194770353790568::1773982807::1773982843::1::::<><><>0<>0<>539d276199ab56c34bd2411cc8614eb9<>res://.godot/imported/TestMenu.png-0411dba0b6c55534c9c265a12480e23f.ctex::
+TestTitle.png::CompressedTexture2D::5252600046881351968::1773982807::1773982843::1::::<><><>0<>0<>dec0144ee631e0fef9677e09321de3cd<>res://.godot/imported/TestTitle.png-3e48d228afb386f14034d6c1e452b375.ctex::
+TX Plant.png::CompressedTexture2D::7049994046837588932::1773982807::1773982843::1::::<><><>0<>0<>1aa5dd6a955c6fae7fb186920084fb38<>res://.godot/imported/TX Plant.png-16e0e1219fe183ce51a72f1916ec3529.ctex::
+TX Player.png::CompressedTexture2D::4271126249342407867::1773982807::1773982843::1::::<><><>0<>0<>28d9b00690718c547b194d0885e50d44<>res://.godot/imported/TX Player.png-331911bcada56c22170394c163f92d79.ctex::
+TX Props.png::CompressedTexture2D::4250224844143254630::1773982807::1773982843::1::::<><><>0<>0<>abc37f187fc0315fdc62d3193be68028<>res://.godot/imported/TX Props.png-216f4424277fcc574bab465abcf87a8e.ctex::
+TX Shadow Plant.png::CompressedTexture2D::8264583138870086476::1773982807::1773982843::1::::<><><>0<>0<>2bc4a7699dddebc4fa670b20d3df7fbd<>res://.godot/imported/TX Shadow Plant.png-0f38c7a4ef43b1f99d941e19420bec7e.ctex::
+TX Shadow.png::CompressedTexture2D::5151949292173255::1773982807::1773982843::1::::<><><>0<>0<>cc293a96699d4f4eca40c6884cd6cdb3<>res://.godot/imported/TX Shadow.png-e23ef904944e7e4ab6ab6b39d632fef0.ctex::
+TX Struct.png::CompressedTexture2D::3429471517548791953::1773982807::1773982843::1::::<><><>0<>0<>5956e4dc56ba2117e092441940910fab<>res://.godot/imported/TX Struct.png-b6d7a81e2efcab14d2b936b7ddebd424.ctex::
+TX Tileset Grass.png::CompressedTexture2D::8131012609035888856::1773982807::1773982843::1::::<><><>0<>0<>4334ceb257368efd891f4b77172cc666<>res://.godot/imported/TX Tileset Grass.png-f2ef4c908ccd50948366d460d4acdfff.ctex::
+TX Tileset Stone Ground.png::CompressedTexture2D::8846387480938933199::1773982807::1773982843::1::::<><><>0<>0<>8673e227efbf7b349abf5deb789460c4<>res://.godot/imported/TX Tileset Stone Ground.png-1995b5093d98088179dbff65a22590f8.ctex::
+TX Tileset Wall.png::CompressedTexture2D::6692024651899689145::1773982807::1773982843::1::::<><><>0<>0<>11c6df2a822639da9b84ce75864d1ee5<>res://.godot/imported/TX Tileset Wall.png-070dd4ab69e2f5d2d2a2a77871697d53.ctex::
+::res://Scenes/::1773982807
+CruiseShipExploration.tscn::PackedScene::642163681256834585::1773982807::0::1::::<><><>0<>0<><>::
+DialogueScene.tscn::PackedScene::7831923016008701301::1773982807::0::1::::<><><>0<>0<><>::
+::res://Scenes/Cutscenes/::1773982807
+DiningHallIntro.tscn::PackedScene::2521932252970453235::1773982807::0::1::::<><><>0<>0<><>::
+OpeningCutscene.tscn::PackedScene::7870228721737349705::1773982807::0::1::::<><><>0<>0<><>::
+ShipExteriorCutscene.tscn::PackedScene::2004968012605312710::1773982807::0::1::::<><><>0<>0<><>::
+::res://Scenes/Locations/::1773982807
+Casino.tscn::PackedScene::5995828165235620033::1773982807::0::1::::<><><>0<>0<><>::
+DiningHall.tscn::PackedScene::2597334938849580638::1773982807::0::1::::<><><>0<>0<><>::
+Hallway.tscn::PackedScene::2830356595826601142::1773982807::0::1::::<><><>0<>0<><>::
+Kitchen.tscn::PackedScene::8964703121777555795::1773982807::0::1::::<><><>0<>0<><>::
+Lounge.tscn::PackedScene::7611892831845585579::1773982807::0::1::::<><><>0<>0<><>::
+UpperDeck.tscn::PackedScene::8952990114737639124::1773982807::0::1::::<><><>0<>0<><>::
+::res://Scenes/Menu/::1773982807
+CreditsScene.tscn::PackedScene::5002613957292346813::1773982807::0::1::::<><><>0<>0<><>::
+LoadMenu.tscn::PackedScene::4011202441865327130::1773982807::0::1::::<><><>0<>0<><>::
+MainMenu.tscn::PackedScene::7106061788608314583::1773982807::0::1::::<><><>0<>0<><>::uid://c30hrsjkuu0qe::::res://Assets/Testing/TestMenu.png<>uid://cg3ns481o8cui::::res://Assets/Testing/TestTitle.png
+PauseMenu.tscn::PackedScene::3561989520174990698::1773982807::0::1::::<><><>0<>0<><>::
+SettingsMenu.tscn::PackedScene::9221137524112486066::1773982807::0::1::::<><><>0<>0<><>::
+::res://Scripts/::1773982807
+GameManager.gd::GDScript::3596698004168973950::1773982807::0::1::::<>Node<><>0<>0<><>::
+SaveManager.gd::GDScript::8458519262176846367::1773982807::0::1::::<>Node<><>0<>0<><>::
+SceneTransitionManager.gd::GDScript::8010445410803334105::1773982807::0::1::::<>Node<><>0<>0<><>::
+::res://Scripts/Dialogue/::1773982807
+DialogueManager.gd::GDScript::8555381016765972418::1773982807::0::1::::<>Node<><>0<>0<><>::
+::res://Testing/::1774039702
+CharacterBody2D.tscn::PackedScene::4673004051937025994::1773982807::0::1::::<><><>0<>0<><>::uid://ct7w2ll2xrasx::::res://Testing/Player.gd<>uid://l6x35guub48o::::res://Assets/Testing/16x32 Idle-Sheet.png<>uid://ysrk7my86y45::::res://Assets/Testing/16x32 Walk-Sheet.png
+Player.gd::GDScript::6173874070922885779::1773982807::0::1::::<>CharacterBody2D<><>0<>0<><>::
+TestRoom.tscn::PackedScene::4410689181911822589::1774039702::0::1::::<><><>0<>0<><>::uid://b7tvxujaqfu15::::res://Testing/CharacterBody2D.tscn<>uid://dn3yubyfnufm3::::res://Assets/Testing/TX Tileset Grass.png<>uid://dybiyd82qflr0::::res://Assets/Testing/TX Tileset Stone Ground.png<>uid://b1s3t2bqdi3u5::::res://Assets/Testing/TX Props.png<>uid://bo4i5oo4sjw6t::::res://Assets/Testing/TX Struct.png<>uid://c2lwwys4arf5b::::res://Assets/Testing/TX Tileset Wall.png
